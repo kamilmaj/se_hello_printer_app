@@ -13,3 +13,6 @@ run:
 test:
 		PYTHONPATH=. py.test
 		PYTHONPATH=. py.test  --verbose -s
+
+
+# komentarz dla nowego brancha
