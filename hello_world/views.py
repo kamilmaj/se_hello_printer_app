@@ -21,5 +21,5 @@ def supported_output():
     return ", ".join(SUPPORTED)
 
 @app.route('/Kamil')
-def supported_output():
-    return ", ".join(SUPPORTED)
+def Kamil():
+    return "Kamil"
