@@ -20,6 +20,7 @@ def index():
 def supported_output():
     return ", ".join(SUPPORTED)
 
+
 @app.route('/Kamil')
-def supported_output():
+def supported_output()
     return ", ".join(SUPPORTED)
